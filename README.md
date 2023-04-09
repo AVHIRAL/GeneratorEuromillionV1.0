@@ -1,4 +1,4 @@
-#Générateur Euromillion v1.0 Avancé V1.0
+Générateur Euromillion v1.0 Avancé V1.0
 
 Comprenant plusieurs paramètres :
 
