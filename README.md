@@ -1,20 +1,6 @@
 # Générateur Euromillion v1.0 Avancé
 
-Il faut impérativement installer les bibliothèques pour Python3 :
-
-import os
-import xlrd
-import random
-import requests
-import time
-import math
-import numpy as np
-import qiskit
-from bs4 import BeautifulSoup
-from qiskit import Aer, execute
-from sklearn.linear_model import LinearRegression
-from qiskit.circuit.library import QuantumVolume
-from qiskit.circuit.library import RYGate
+Pour l'installation : python install.py
 
 Comprenant plusieurs paramètres :
 
