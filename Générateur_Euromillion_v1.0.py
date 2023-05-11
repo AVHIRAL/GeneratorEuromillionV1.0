@@ -13,7 +13,7 @@ from qiskit.circuit.library import QuantumVolume
 from qiskit.circuit.library import RYGate
 
 # Set parameters
-num_samples = 1000  # <-- Définir num_samples
+num_samples = 1000 
 
 # Définir la fonction de génération quantique
 def generate_quantum_numbers(num_samples):
