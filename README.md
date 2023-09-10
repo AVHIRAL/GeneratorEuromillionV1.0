@@ -18,4 +18,4 @@ Comprenant plusieurs paramètres :
 
 Pour lancer le script : python3 Générateur_Euromillion_v1.0.py
 
-AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : davidp8686@gmail.com
+AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : contact@avhiral.com
